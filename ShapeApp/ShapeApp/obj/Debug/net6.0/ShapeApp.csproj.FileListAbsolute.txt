@@ -1,0 +1,15 @@
+C:\Users\marcu\source\repos\ShapeApp\ShapeApp\bin\Debug\net6.0\ShapeApp.exe
+C:\Users\marcu\source\repos\ShapeApp\ShapeApp\bin\Debug\net6.0\ShapeApp.deps.json
+C:\Users\marcu\source\repos\ShapeApp\ShapeApp\bin\Debug\net6.0\ShapeApp.runtimeconfig.json
+C:\Users\marcu\source\repos\ShapeApp\ShapeApp\bin\Debug\net6.0\ShapeApp.dll
+C:\Users\marcu\source\repos\ShapeApp\ShapeApp\bin\Debug\net6.0\ref\ShapeApp.dll
+C:\Users\marcu\source\repos\ShapeApp\ShapeApp\bin\Debug\net6.0\ShapeApp.pdb
+C:\Users\marcu\source\repos\ShapeApp\ShapeApp\obj\Debug\net6.0\ShapeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\source\repos\ShapeApp\ShapeApp\obj\Debug\net6.0\ShapeApp.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\ShapeApp\ShapeApp\obj\Debug\net6.0\ShapeApp.AssemblyInfo.cs
+C:\Users\marcu\source\repos\ShapeApp\ShapeApp\obj\Debug\net6.0\ShapeApp.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\ShapeApp\ShapeApp\obj\Debug\net6.0\ShapeApp.dll
+C:\Users\marcu\source\repos\ShapeApp\ShapeApp\obj\Debug\net6.0\ref\ShapeApp.dll
+C:\Users\marcu\source\repos\ShapeApp\ShapeApp\obj\Debug\net6.0\ShapeApp.pdb
+C:\Users\marcu\source\repos\ShapeApp\ShapeApp\obj\Debug\net6.0\ShapeApp.genruntimeconfig.cache
+C:\Users\marcu\source\repos\ShapeApp\ShapeApp\obj\Debug\net6.0\ShapeApp.csproj.AssemblyReference.cache
